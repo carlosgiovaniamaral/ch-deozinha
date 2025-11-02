@@ -27,7 +27,7 @@ Um sistema elegante e intuitivo para gerenciar a reserva de presentes para event
 
 ## Stack Tecnológico
 
-- **Frontend**: React 19 + TypeScript + Tailwind CSS
+- **Frontend**: React 18 + TypeScript + Tailwind CSS
 - **Backend**: Next.js 16 API Routes
 - **Database**: PostgreSQL (Neon)
 - **ORM**: Prisma
